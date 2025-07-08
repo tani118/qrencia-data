@@ -1,1 +1,67 @@
+{
+    "profile": {
+        "name": "Nikhil Malik",
+        "description": "I am an creative individual passionate about artistic expression and strategic thinking. Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem adipiscing elit",
+        "picture": "insert-image-here"
+    },
+    "levelDetails": {
+        "Level": 4,
+        "pointsImprovement": 135,
+        "currentXP": 135,
+        "totalXP": 200,
+        "Beryls": 109,
+        "Streaks": 22
+    },
+    "badges": [
+    {
+        "name": "Palette Pioneer",
+        "image": "source"
+    }, {
+        "name": "Tactical Titan",
+        "image": "source"
+    }, {
+        "name": "Skill Badge Title",
+        "image": "source"
+    }],
+    "topAchievements":{
+        "image": "source",
+        "achievementList": [
+            {
+                "name": "Artistic Vision",
+                "dateIssued": "22nd April '2024"
+            },
+            {
+                "name": "Grandmaster",
+                "dateIssued": "22nd April '2024"
+            },
+            {
+                "name": "Achievement Title",
+                "dateIssued":"22nd April '2024"
+            },
+            {
+                "name": "Achievement Title",
+                "dateIssued":"22nd April '2024"
+            }
+    
+        ]},
 
+    "spotlight": ["source1", "source2", "source3"],
+    "glowingReviews": [
+        {
+            "name": "Neeraj Sharma",
+            "profileImage": "source",
+            "title": "Drawing Expert",
+            "review": "Your drawing skills have reached new heights! Your attention to detail, mastery of techniques, and creative expression are truly impressive.",
+            "dateIssued": "26th August 2024",
+            "stars": 5
+        }, {
+            "name": "Kanika Rajput",
+            "profileImage": "source",
+            "organisationImage": "source",
+            "title": "Founder and Director, Kalakrit Studio",
+            "review": "Congratulations on your outstanding performance in the academy competition! Your painting stood out among the rest,showcasing your exceptional skill and artistry.",
+            "dateIssued": "26th August 2024",
+            "stars": 4
+        }
+    ]
+}
