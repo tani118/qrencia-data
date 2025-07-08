@@ -2,7 +2,8 @@
     "profile": {
         "name": "Nikhil Malik",
         "description": "I am an creative individual passionate about artistic expression and strategic thinking. Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem adipiscing elit",
-        "picture": "https://tani118.github.io/qrencia-data/assets/Nikhil.jpg"
+        "picture": "https://tani118.github.io/qrencia-data/assets/Nikhil.jpg",
+        "isWeeklyLeader": true,
     },
     
     "levelDetails": {
