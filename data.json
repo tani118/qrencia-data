@@ -2,29 +2,38 @@
     "profile": {
         "name": "Nikhil Malik",
         "description": "I am an creative individual passionate about artistic expression and strategic thinking. Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem adipiscing elit",
-        "picture": "insert-image-here"
+        "picture": "https://tani118.github.io/qrencia-data/assets/Nikhil.jpg"
     },
+    
     "levelDetails": {
-        "Level": 4,
+        "level": 4,
         "pointsImprovement": 135,
         "currentXP": 135,
         "totalXP": 200,
-        "Beryls": 109,
-        "Streaks": 22
+        "beryls": 109,
+        "streaks": 22
     },
-    "badges": [
-    {
-        "name": "Palette Pioneer",
-        "image": "source"
-    }, {
-        "name": "Tactical Titan",
-        "image": "source"
-    }, {
-        "name": "Skill Badge Title",
-        "image": "source"
-    }],
-    "topAchievements":{
-        "image": "source",
+    
+    "badges": {
+        "badgeList" : [
+            {
+                "name": "Palette Pioneer",
+                "image": "https://tani118.github.io/qrencia-data/assets/Icons%20%26%20Badges/1_paint.png"
+            }, 
+            {
+                "name": "Tactical Titan",
+                "image": "https://tani118.github.io/qrencia-data/assets/Icons%20%26%20Badges/1_horse.png"
+            }, 
+            {
+                "name": "Skill Badge Title",
+                "image": "https://tani118.github.io/qrencia-data/assets/Icons%20%26%20Badges/1_puzzle.png"
+            }
+        ]
+    },
+
+    
+    "topAchievements": {
+        "image": "https://tani118.github.io/qrencia-data/assets/Icons%20%26%20Badges/1_Achievement.png",
         "achievementList": [
             {
                 "name": "Artistic Vision",
@@ -42,26 +51,53 @@
                 "name": "Achievement Title",
                 "dateIssued":"22nd April '2024"
             }
+    ]},
     
-        ]},
+    "LearningBadges" : {
+        "learningBadgesList": [
+            {
+                "name": "Rise & Shine", 
+                "dateIssued": "22nd April '2024"
+            }, 
+            { 
+                "name": "Badge Title", 
+                "dateIssued": "22nd April '2024"
+            }
+        ]
+    },
 
-    "spotlight": ["source1", "source2", "source3"],
-    "glowingReviews": [
-        {
-            "name": "Neeraj Sharma",
-            "profileImage": "source",
-            "title": "Drawing Expert",
-            "review": "Your drawing skills have reached new heights! Your attention to detail, mastery of techniques, and creative expression are truly impressive.",
-            "dateIssued": "26th August 2024",
-            "stars": 5
-        }, {
-            "name": "Kanika Rajput",
-            "profileImage": "source",
-            "organisationImage": "source",
-            "title": "Founder and Director, Kalakrit Studio",
-            "review": "Congratulations on your outstanding performance in the academy competition! Your painting stood out among the rest,showcasing your exceptional skill and artistry.",
-            "dateIssued": "26th August 2024",
-            "stars": 4
-        }
-    ]
+    "spotlight": {
+        "spotlightImageList" :
+        [
+            "https://tani118.github.io/qrencia-data/assets/Images%20for%20Spotlight/1.jpeg", 
+            "https://tani118.github.io/qrencia-data/assets/Images%20for%20Spotlight/2.jpeg", 
+            "https://tani118.github.io/qrencia-data/assets/Images%20for%20Spotlight/3.jpeg", 
+            "https://tani118.github.io/qrencia-data/assets/Images%20for%20Spotlight/4.jpeg", 
+            "https://tani118.github.io/qrencia-data/assets/Images%20for%20Spotlight/5.jpeg", 
+            "https://tani118.github.io/qrencia-data/assets/Images%20for%20Spotlight/6.jpeg", 
+            "https://tani118.github.io/qrencia-data/assets/Images%20for%20Spotlight/7.jpeg", 
+            "https://tani118.github.io/qrencia-data/assets/Images%20for%20Spotlight/8.jpeg"
+        ]
+    },
+    
+    "glowingReviews": {
+        "glowingReviewsList" : [
+            {
+                "name": "Neeraj Sharma",
+                "profileImage": "https://tani118.github.io/qrencia-data/assets/Expert%20Image/Neeraj.png",
+                "title": "Drawing Expert",
+                "review": "Your drawing skills have reached new heights! Your attention to detail, mastery of techniques, and creative expression are truly impressive.",
+                "dateIssued": "26th August 2024",
+                "stars": 5
+            }, {
+                "name": "Kanika Rajput",
+                "profileImage": "https://tani118.github.io/qrencia-data/assets/Expert%20Image/Kanika_Rajput.jpg",
+                "organisationImage": "https://tani118.github.io/qrencia-data/assets/Icons%20%26%20Badges/1_icon.png",
+                "title": "Founder and Director, Kalakrit Studio",
+                "review": "Congratulations on your outstanding performance in the academy competition! Your painting stood out among the rest,showcasing your exceptional skill and artistry.",
+                "dateIssued": "26th August 2024",
+                "stars": 4
+            }
+        ]
+    }
 }
